@@ -1,1 +1,1 @@
-# java_curs_proj
+# java_curse_proj
